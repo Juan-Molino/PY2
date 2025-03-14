@@ -1,0 +1,12 @@
+.form {
+    display: flex;
+    justify-content: space-between;
+}
+
+.tel_email {
+    width: 48%;
+}
+
+.obs {
+    height: 300px;
+}
